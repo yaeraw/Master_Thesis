@@ -1,8 +1,8 @@
 # Master_Thesis
 
-This repository holds the code for the Masterthesis ""Establishment of a mechanically heterogeneous microenvironment to study its impact on growth factor signaling in bone progenitor cells." from Yara Basler. 
+This repository holds the code for the Masterthesis "Establishment of a mechanically heterogeneous microenvironment to study its impact on growth factor signaling in bone progenitor cells." from Yara Basler. 
 
-Python code for *Spiral Deformation Analysis* and *Cell Substraction*.
+Python code for _Spiral Deformation Analysis_ and *Cell Substraction*.
 
 Image J Macros for *nuclear pSMAD1/5/9 quantification*.
 
