@@ -1,4 +1,4 @@
-# Master_Thesis
+# Yara Basler Master Thesis Code
 
 This repository holds the code for the Masterthesis "Establishment of a mechanically heterogeneous microenvironment to study its impact on growth factor signaling in bone progenitor cells." from Yara Basler. 
 
